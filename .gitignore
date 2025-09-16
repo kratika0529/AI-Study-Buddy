@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Streamlit secrets file (very sensitive)
+.streamlit/secrets.toml
+
+# Google Cloud credentials file (very sensitive)
+credentials.json
+
+# User-generated data (should not be part of the source code)
+users.json
+chats/
+user_plans/
+user_timetables/
+user_documents/
+
+# Python cache files
+__pycache__/
+*.pyc
