@@ -443,3 +443,4 @@ with assistant_tab:
             save_chat_history(username, st.session_state.chat_history, st.session_state.active_chat)
     else:
         st.info("To talk to the AI, start a '➕ New Chat' from the sidebar.")
+
