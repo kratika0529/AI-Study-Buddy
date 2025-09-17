@@ -191,7 +191,7 @@ def apply_color_theme(theme_name, theme_colors):
 
 
 if "selected_theme_emoji" not in st.session_state:
-    st.session_state.selected_theme_emoji = "Pink"
+    st.session_state.selected_theme_emoji = "🩷 Pink"
 st.sidebar.write("Choose a theme:")
 cols = st.sidebar.columns(5)
 col_index = 0
@@ -443,4 +443,5 @@ with assistant_tab:
             save_chat_history(username, st.session_state.chat_history, st.session_state.active_chat)
     else:
         st.info("To talk to the AI, start a '➕ New Chat' from the sidebar.")
+
 
