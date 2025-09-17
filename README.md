@@ -1,13 +1,8 @@
-Of course. A great README.md file is a crucial part of your final submission. It's the first thing the evaluators will see and should clearly explain your project, its features, and how to run it.
-
-Based on the assignment requirements and all the features you've built, here is a complete and professional README.md file. You can copy and paste this content directly into the README.md file in your GitHub repository.
-
 AI Study Buddy - AI Agent Prototype
+
 Name: Kratika Singh
+College: IIT Mandi
 
-University: [Your University Name]
-
-Department: [Your Department Name]
 
 🚀 Project Overview
 AI Study Buddy is a comprehensive, multi-page web application designed as an AI agent prototype for a software engineer internship assessment. The project's core mission is to automate and enhance the daily tasks of a university student by providing a suite of intelligent, interactive, and personalized tools.
